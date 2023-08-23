@@ -4,6 +4,9 @@
 ## Table of Contents  
 - [Introduction](#introduction)  
 - [Tasks and Responsibilities](#tasks-and-responsibilities)
+- [Projects](#projects)
+- [Tools and Technologies](#tools-and-tech)
+- [Credits](#credits)
 <a name="introduction"/>
 
 ## Introduction
@@ -25,5 +28,21 @@ My key responsibilities during my role as a Data Science Research Assistant incl
 
 ## Projects
 1. Email Open Rates
-2. Data Analysis Onboarding
-3. VR Data
+3. Data Analysis Onboarding
+4. Voice Reflection Replication (EDA)
+5. Control vs Treatment
+
+<a name="tools-and-tech"/>
+
+## Tools and Techonologies
+Throughout these projects, I utilized a combination of the following tools and technologies:
+- Python: pandas, numpy, matplotlib
+- R: tidyverse, ggplot2
+- Jupyter Notebook and Rstudio for development and analysis.
+
+<a name="credits" />
+
+## Credits
+I would like to express my gratitude to the research team for their guidance and support throughout the projects, even though I was a late comer. Also really appreciate the comfortable environment working with peers on tasks during the period of operation. Everyone's insights and domain knowledge greatly helped and contributed to the completion of these analyses.
+
+I had a great experience volunteering as an assitant researcher at IAI Toronto. If there are any questions or concerns, please feel free to reach out to me via <a href="https://www.linkedin.com/in/chris-yan-97820a228/">LinkedIn</a>!
